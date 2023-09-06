@@ -168,9 +168,9 @@
 ## 🖥️ 화면 설계서
 
 ---
-<img src="https://github.com/Raon-cs/Parking/assets/108639467/b752c592-538e-4b81-9573-125ecebbda20" width="30%"/>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/b752c592-538e-4b81-9573-125ecebbda20" width="50%"/>
 
 ## ⚙️ ERD
 
 ---
-<img src="https://github.com/Raon-cs/Parking/assets/108639467/9b284c24-70ad-4e5b-807c-03284350cb5d" width="30%"/>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/9b284c24-70ad-4e5b-807c-03284350cb5d" width="50%"/>
