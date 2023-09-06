@@ -92,7 +92,7 @@
 ## 🏹 시스템 아키텍처
 
 ---
-<img src="https://github.com/Raon-cs/Parking/assets/108639467/6adaaf34-4ccf-4d44-9463-14d06e1a99d4"  width="150" height="150>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/6adaaf34-4ccf-4d44-9463-14d06e1a99d4"  width="30%" height="30%>
 
 ## ⚒️ 개발 및 협업 환경
 
