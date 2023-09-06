@@ -126,64 +126,52 @@
 <img src="https://github.com/Raon-cs/Parking/assets/108639467/136af300-a1e4-40d7-9e82-3a1db88a2431" width="30%"/>
 
 ### 회원가입
-![회원가입1](https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304){: width="10%"}
-![회원가입2](https://github.com/Raon-cs/Parking/assets/108639467/c8e4c06a-0631-4906-bc27-eb4cc4d3713f){: width="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/a79f6ed6-8dea-4188-b9c6-0e94a33c21e4" width="30%"/>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/90b153c4-ccf5-4d57-877d-a256174d6e8c" width="30%"/>
 
 ### 개인정보 이용약관
-![개인정보 이용약관](https://github.com/Raon-cs/Parking/assets/108639467/bd66db0c-df74-4d84-b18c-fa1a307e9a2d){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/118f23ec-e4ed-462a-8807-e11af31a215e" width="30%"/>
 
 ### 출차 시간 등록
-
-![출차시간 등록](https://github.com/Raon-cs/Parking/assets/108639467/3f15972b-5ede-4346-92a8-21ba59419bc5){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/3f15972b-5ede-4346-92a8-21ba59419bc5" width="30%"/>
 
 ### 내 주차 현황(겹주차 미발생시)
-
-![내 주차 현황](https://github.com/Raon-cs/Parking/assets/108639467/7d09ca64-0c1d-49e1-a947-1dbda0283255){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/131e6fdf-98e5-4d56-aff9-64386ab8d353" width="30%"/>
 
 ### 내 주차 현황(겹주차 발생시)
-![내 주차 현황(겹주차 발생시)](https://github.com/Raon-cs/Parking/assets/108639467/d3204b02-e53d-40d6-9563-4847e1f6be71){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/017c2337-2672-41d8-abf9-bfd02322d61a" width="30%"/>
 
 ### 마이페이지
-
-![마이 페이지](https://github.com/Raon-cs/Parking/assets/108639467/3f083b70-758a-46d6-9ded-8971e9b2569a){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/f9c422ab-c35b-43da-a791-cf04dc4bf663" width="30%"/>
 
 ### 마이페이지- 정보수정
-![정보 수정](https://github.com/Raon-cs/Parking/assets/108639467/58e375c2-1176-4203-938c-f75f71629fa0){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/dcc34323-de94-451b-8de2-269fe7aac31d" width="30%"/>
 
 ### 마이페이지 - 정보수정(세부)
-![정보 수정(세부)](https://github.com/Raon-cs/Parking/assets/108639467/6f934a1b-2417-446a-9126-8188981b6cc5){: width="10%" height="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/d5677cf9-434d-49b6-bc35-10e57022e0c5" width="30%"/>
 
 ### 마일리지 교환 페이지
-![마일리지 교환페이지](https://github.com/Raon-cs/Parking/assets/108639467/7005f413-bc3b-442d-b7b4-b3a26a0920df){: width="10%" height="10%"}
-![마일리지 교환 안내](https://github.com/Raon-cs/Parking/assets/108639467/d9ce68d7-8e22-47da-8d29-a1b737e33866){: width="10%" height="10%"}
-![마일리지 교환 결과](https://github.com/Raon-cs/Parking/assets/108639467/3784c2af-070b-4ac9-a3e8-b5ccf6ea435d){: width="10%" height="10%"}
-
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/d5cae2b7-d01f-439c-abd4-a67f6d234672" width="30%"/>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/b2c2a63a-ae7e-49d5-86c9-b3245c1f48d4" width="30%"/>
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/4d0f17f1-6728-4622-b100-a37ceb429d6a" width="30%"/>
 
 ### 채팅방
 
 - **시스템 채팅방**
-    
-    ![시스템 채팅방](https://github.com/Raon-cs/Parking/assets/108639467/4674e4d6-a4f4-4b9c-837d-3cda4bbe58c4){: width="10%" height="10%"}
-    
+    <img src="https://github.com/Raon-cs/Parking/assets/108639467/fd38ba08-976f-4165-82da-940c51a50d7b" width="30%"/>
 
 - **사용자간 채팅방**
-    
-    ![사용자 채팅방](https://github.com/Raon-cs/Parking/assets/108639467/f26e858c-3734-49b0-9495-c6dd41ed4523){: width="30%" height="30%"}
-    
+    <img src="https://github.com/Raon-cs/Parking/assets/108639467/3e83f0d6-2335-4527-a818-3d8420529bb1" width="30%"/>
 
 ### 알람
-
-![알림](https://github.com/Raon-cs/Parking/assets/108639467/fcd59a38-bc34-4bf0-93f9-49b39d57fa49){: width="30%" height="30%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/1d7ec49a-e516-489a-93a0-c8dc12a2f5ff" width="30%"/>
 
 ## 🖥️ 화면 설계서
 
 ---
-
-![화면설계서](https://github.com/Raon-cs/Parking/assets/108639467/d833935b-f2f4-40d0-9964-1feeb01687db){: width="30%" height="30%"}
-
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/b752c592-538e-4b81-9573-125ecebbda20" width="30%"/>
 
 ## ⚙️ ERD
 
 ---
-
-![ERD](https://github.com/Raon-cs/Parking/assets/108639467/42448b63-4369-4897-919d-d24b87398d7e){: width="30%" height="30%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/9b284c24-70ad-4e5b-807c-03284350cb5d" width="30%"/>
