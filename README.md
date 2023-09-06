@@ -93,7 +93,7 @@
 
 ---
 
-![sysarci.drawio__3_](/uploads/653f51867161adb654be07ce32e0de0c/sysarci.drawio__3_.png){: width="50%" height="50%"}
+![시스템 아키텍쳐](https://github.com/Raon-cs/Parking/assets/108639467/6adaaf34-4ccf-4d44-9463-14d06e1a99d4)
 
 ## ⚒️ 개발 및 협업 환경
 
