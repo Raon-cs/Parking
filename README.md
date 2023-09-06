@@ -123,7 +123,7 @@
 ---
 
 ### 메인화면
-![메인화면](https://github.com/Raon-cs/Parking/assets/108639467/ab7d7af7-078d-4b60-a9aa-8da1881178d){: width="10%"}
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/136af300-a1e4-40d7-9e82-3a1db88a2431" width="50%"/>
 
 ### 회원가입
 ![회원가입1](https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304){: width="10%"}
