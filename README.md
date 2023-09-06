@@ -93,7 +93,7 @@
 
 ---
 
-![시스템 아키텍쳐](https://github.com/Raon-cs/Parking/assets/108639467/6adaaf34-4ccf-4d44-9463-14d06e1a99d4){: width="30%" height="30%"}
+![시스템 아키텍쳐](https://github.com/Raon-cs/Parking/assets/108639467/6adaaf34-4ccf-4d44-9463-14d06e1a99d4){: width="10%" height="10%"}
 
 ## ⚒️ 개발 및 협업 환경
 
@@ -125,47 +125,47 @@
 
 ### 메인화면
 
-![메인화면](https://github.com/Raon-cs/Parking/assets/108639467/ab7d7af7-078d-4b60-a9aa-8da1881178d4){: width="30%" height="30%"}
+![메인화면](https://github.com/Raon-cs/Parking/assets/108639467/ab7d7af7-078d-4b60-a9aa-8da1881178d4){: width="10%" height="10%"}
 
 ### 회원가입
-![회원가입1](https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304){: width="30%" height="30%"}
-![회원가입2](https://github.com/Raon-cs/Parking/assets/108639467/c8e4c06a-0631-4906-bc27-eb4cc4d3713f){: width="30%" height="30%"}
+![회원가입1](https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304){: width="10%" height="10%"}
+![회원가입2](https://github.com/Raon-cs/Parking/assets/108639467/c8e4c06a-0631-4906-bc27-eb4cc4d3713f){: width="10%" height="10%"}
 
 ### 개인정보 이용약관
-![개인정보 이용약관](https://github.com/Raon-cs/Parking/assets/108639467/bd66db0c-df74-4d84-b18c-fa1a307e9a2d){: width="30%" height="30%"}
+![개인정보 이용약관](https://github.com/Raon-cs/Parking/assets/108639467/bd66db0c-df74-4d84-b18c-fa1a307e9a2d){: width="10%" height="10%"}
 
 ### 출차 시간 등록
 
-![출차시간 등록](https://github.com/Raon-cs/Parking/assets/108639467/3f15972b-5ede-4346-92a8-21ba59419bc5){: width="30%" height="30%"}
+![출차시간 등록](https://github.com/Raon-cs/Parking/assets/108639467/3f15972b-5ede-4346-92a8-21ba59419bc5){: width="10%" height="10%"}
 
 ### 내 주차 현황(겹주차 미발생시)
 
-![내 주차 현황](https://github.com/Raon-cs/Parking/assets/108639467/7d09ca64-0c1d-49e1-a947-1dbda0283255){: width="30%" height="30%"}
+![내 주차 현황](https://github.com/Raon-cs/Parking/assets/108639467/7d09ca64-0c1d-49e1-a947-1dbda0283255){: width="10%" height="10%"}
 
 ### 내 주차 현황(겹주차 발생시)
-![내 주차 현황(겹주차 발생시)](https://github.com/Raon-cs/Parking/assets/108639467/d3204b02-e53d-40d6-9563-4847e1f6be71){: width="30%" height="30%"}
+![내 주차 현황(겹주차 발생시)](https://github.com/Raon-cs/Parking/assets/108639467/d3204b02-e53d-40d6-9563-4847e1f6be71){: width="10%" height="10%"}
 
 ### 마이페이지
 
-![마이 페이지](https://github.com/Raon-cs/Parking/assets/108639467/3f083b70-758a-46d6-9ded-8971e9b2569a){: width="30%" height="30%"}
+![마이 페이지](https://github.com/Raon-cs/Parking/assets/108639467/3f083b70-758a-46d6-9ded-8971e9b2569a){: width="10%" height="10%"}
 
 ### 마이페이지- 정보수정
-![정보 수정](https://github.com/Raon-cs/Parking/assets/108639467/58e375c2-1176-4203-938c-f75f71629fa0){: width="30%" height="30%"}
+![정보 수정](https://github.com/Raon-cs/Parking/assets/108639467/58e375c2-1176-4203-938c-f75f71629fa0){: width="10%" height="10%"}
 
 ### 마이페이지 - 정보수정(세부)
-![정보 수정(세부)](https://github.com/Raon-cs/Parking/assets/108639467/6f934a1b-2417-446a-9126-8188981b6cc5){: width="30%" height="30%"}
+![정보 수정(세부)](https://github.com/Raon-cs/Parking/assets/108639467/6f934a1b-2417-446a-9126-8188981b6cc5){: width="10%" height="10%"}
 
 ### 마일리지 교환 페이지
-![마일리지 교환페이지](https://github.com/Raon-cs/Parking/assets/108639467/7005f413-bc3b-442d-b7b4-b3a26a0920df){: width="30%" height="30%"}
-![마일리지 교환 안내](https://github.com/Raon-cs/Parking/assets/108639467/d9ce68d7-8e22-47da-8d29-a1b737e33866){: width="30%" height="30%"}
-![마일리지 교환 결과](https://github.com/Raon-cs/Parking/assets/108639467/3784c2af-070b-4ac9-a3e8-b5ccf6ea435d){: width="30%" height="30%"}
+![마일리지 교환페이지](https://github.com/Raon-cs/Parking/assets/108639467/7005f413-bc3b-442d-b7b4-b3a26a0920df){: width="10%" height="10%"}
+![마일리지 교환 안내](https://github.com/Raon-cs/Parking/assets/108639467/d9ce68d7-8e22-47da-8d29-a1b737e33866){: width="10%" height="10%"}
+![마일리지 교환 결과](https://github.com/Raon-cs/Parking/assets/108639467/3784c2af-070b-4ac9-a3e8-b5ccf6ea435d){: width="10%" height="10%"}
 
 
 ### 채팅방
 
 - **시스템 채팅방**
     
-    ![시스템 채팅방](https://github.com/Raon-cs/Parking/assets/108639467/4674e4d6-a4f4-4b9c-837d-3cda4bbe58c4){: width="30%" height="30%"}
+    ![시스템 채팅방](https://github.com/Raon-cs/Parking/assets/108639467/4674e4d6-a4f4-4b9c-837d-3cda4bbe58c4){: width="10%" height="10%"}
     
 
 - **사용자간 채팅방**
