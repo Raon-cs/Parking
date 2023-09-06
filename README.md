@@ -155,14 +155,11 @@
 <img src="https://github.com/Raon-cs/Parking/assets/108639467/b2c2a63a-ae7e-49d5-86c9-b3245c1f48d4" width="30%"/>
 <img src="https://github.com/Raon-cs/Parking/assets/108639467/4d0f17f1-6728-4622-b100-a37ceb429d6a" width="30%"/>
 
-### 채팅방
+### 시스템 채팅방
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/fd38ba08-976f-4165-82da-940c51a50d7b" width="30%"/>
 
-- **시스템 채팅방**
-    <img src="https://github.com/Raon-cs/Parking/assets/108639467/fd38ba08-976f-4165-82da-940c51a50d7b" width="30%"/>
-
-
-- **사용자간 채팅방**
-    <img src="https://github.com/Raon-cs/Parking/assets/108639467/3e83f0d6-2335-4527-a818-3d8420529bb1" width="30%"/>
+### 사용자간 채팅방
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/3e83f0d6-2335-4527-a818-3d8420529bb1" width="30%"/>
 
 
 ### 알람
