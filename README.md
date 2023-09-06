@@ -123,11 +123,11 @@
 ---
 
 ### 메인화면
-<img src="https://github.com/Raon-cs/Parking/assets/108639467/ab7d7af7-078d-4b60-a9aa-8da1881178d" width="50%"/>
+![메인화면](https://github.com/Raon-cs/Parking/assets/108639467/ab7d7af7-078d-4b60-a9aa-8da1881178d){:width="10%"}
 
 ### 회원가입
-<img src="https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304" width="50%"/>
-![회원가입2](https://github.com/Raon-cs/Parking/assets/108639467/c8e4c06a-0631-4906-bc27-eb4cc4d3713f){:width="10%" height="10%"}
+![회원가입1](https://github.com/Raon-cs/Parking/assets/108639467/52c670bc-5b42-4d92-a442-9a28a702d304){:width="10%"}
+![회원가입2](https://github.com/Raon-cs/Parking/assets/108639467/c8e4c06a-0631-4906-bc27-eb4cc4d3713f){:width="10%"}
 
 ### 개인정보 이용약관
 ![개인정보 이용약관](https://github.com/Raon-cs/Parking/assets/108639467/bd66db0c-df74-4d84-b18c-fa1a307e9a2d){: width="10%" height="10%"}
