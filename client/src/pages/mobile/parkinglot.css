@@ -1,0 +1,27 @@
+.ParkinglotBox {
+    position: absolute;
+    top:8rem;
+    left:0rem;
+    margin: 0;
+}
+
+.parkinglot-main-text {
+    text-align:start;
+    margin-top: 2rem;
+}
+
+.parkinglot-main-username {
+    display: inline-flex;
+}
+
+.parkinglot-button-container {
+  position: relative;
+  border: none;
+  width: 25%;
+  height: 100%;
+  margin: 0 1rem;
+  padding: 0;
+  text-align: center;
+  border-radius: 0.2rem;
+  box-shadow: 0 0 10px 5px #eaeaea;
+}
