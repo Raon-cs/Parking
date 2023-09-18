@@ -90,9 +90,9 @@
 - 위의 해당 Topic으로 메세지를 송신(pub), 메세지를 수신(sub)하게 되면 채팅방에서 메세지를 송수신이 가능해진다.
 
 ## 🏹 시스템 아키텍처
-
+<img src="https://github.com/Raon-cs/Parking/assets/108639467/60f79975-472e-4f90-a4b5-d559b02ba6be" width="30%"/>
 ---
-![sysarci.drawio__3_](/uploads/653f51867161adb654be07ce32e0de0c/sysarci.drawio__3_.png){: width="50%" height="50%"}
+
 
 ## ⚒️ 개발 및 협업 환경
 
